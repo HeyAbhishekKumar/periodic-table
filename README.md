@@ -60,10 +60,22 @@ CSS – Styles the layout and appearance of the periodic table.
 
 HTML – Structure of the web pages.
 
+## 🤝 Contributing
 
-This is an interactive, dynamic periodic table. To view the project, simply start by opening intro.html.
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request, or open an issue to discuss.
 
-**License**
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/YourFeature`)
+3. Commit your Changes (`git commit -m 'Add Your Feature'`)
+4. Push to the Branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request
 
-This project is open-source, feel free to contribute and modify as needed!
+## 📬 Contact
+
+Have questions or want to connect? Reach out via [email@example.com](mailto:email@example.com) or connect on [LinkedIn](https://linkedin.com/in/yourprofile).
+
+## ⭐ Acknowledgments
+
+Thanks to @vishalkumarojha who helped make this project possible, especially contributors and anyone who provided feedback.
+
 
